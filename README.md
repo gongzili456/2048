@@ -1,3 +1,3 @@
 自制2048游戏
-![](http://geeekr.qiniudn.com/images/0/95/fbe49cb1742d46aae34d63eaa1185.png)
+![](http://geeekr.qiniudn.com/images/6/71/b03d53e397c9f1e46ca0eb9a89e00.png)
 
